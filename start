@@ -1,5 +1,7 @@
-git clone https://github.com/ashty-drone/cattemplate25
+rm -rf billi
 
-cd cattemplate
+git clone https://github.com/ashty-drone/cattemplate billi
+
+cd billi
 
 bash quick_start
